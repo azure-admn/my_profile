@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **cloud-native projects**
 - 🌱 I’m learning **Kubernetes deep dive**
 - 💬 Ask me about **CI/CD, AWS, Terraform**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **rajthipak5@gmail.com**
 
 ---
 
